@@ -17,6 +17,7 @@ EOF
 
 # 取消默认启用的包
 cat >> .config <<EOF
+CONFIG_PACKAGE_luci-app-nlbwmon=y
 CONFIG_PACKAGE_luci-app-adbyby-plus=y
 CONFIG_PACKAGE_luci-app-aria2=y
 CONFIG_PACKAGE_luci-app-ttyd=y
