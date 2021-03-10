@@ -1,4 +1,4 @@
-name: ipq-40xx_hiwifi-c526a
+name: ipq-40xx_hiwifi-c526a-lede
 
 on:
   workflow_dispatch:
